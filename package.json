@@ -1,0 +1,19 @@
+{
+  "name": "to-do-list-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreelanzCorp/to-do-list-server.git"
+  },
+  "author": "ramaze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreelanzCorp/to-do-list-server/issues"
+  },
+  "homepage": "https://github.com/FreelanzCorp/to-do-list-server#readme"
+}
